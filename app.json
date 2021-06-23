@@ -89,8 +89,8 @@
       "Filter Bot"
       
    ],
-   "name": "Filter Bot",
-   "repository": "https://github.com/Jijinr/Filter-Bot",
+   "name": "dxm filter Bot",
+   "repository": "https://github.com/devanandm/Filter-Bot.git",
    "success_url": "https://telegram.dog/dxmbots",
    "logo": "https://telegra.ph/file/b37ac7f18d024bc8d39aa.jpg"
 }
