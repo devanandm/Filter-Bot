@@ -10,7 +10,7 @@ Alternatively, [find me on telegram](https://t.me/dxmbots)! (Keep all support qu
 
 ### Easy Way to Deploy
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Jijinr/Filter-Bot)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/devanandm/Filter-Bot.git)
 
 
 ### Configuration
